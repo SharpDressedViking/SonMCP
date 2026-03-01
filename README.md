@@ -106,7 +106,7 @@ SonMCP is built with a clean, decoupled architecture using the **Engine Factory 
 
 ![javascript example](./README/js.png)
 ![python example](./README/py.png)
-![csharp example](./README/cs.png)
+![csharp example](./README/proj.png)
 
 ---
 
