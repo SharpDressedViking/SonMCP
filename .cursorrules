@@ -1,0 +1,14 @@
+# AI Agent Instructions for TelMCP
+
+Welcome! This repository was constructed with a great amount of use of an AI agent (Antigravity). As a visiting AI coding assistant, please adhere to the following strict rules:
+
+## 1. No Autonomous Pushing
+DO NOT execute `git push` or similar commands to publish code to a remote repository under any circumstances without explicit, written confirmation from the human developer first.
+
+## 2. Status Quo Preservation
+Respect the existing architecture. This is a lightweight, single-process application heavily reliant on file-system IPC and Windows automation. Do not attempt to introduce heavy external dependencies (e.g., SQL databases, Redis, complex message brokers) without human approval.
+
+## 3. Communication
+If you intend to modify core orchestration logic or security boundaries, stop and ask the user for verification. 
+
+*Thank you for respecting the repository guidelines!*
